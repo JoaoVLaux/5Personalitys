@@ -36,6 +36,7 @@ O projeto consiste em um único script JupyterNotebook chamado `personality_clus
 
 ### Uso
 1. Certifique-se de que o conjunto de dados `data-final.csv` está no mesmo diretório que o script.
+2. Link para o data-set: <https://www.kaggle.com/datasets/tunguz/big-five-personality-test>
 2. Execute o script.
 3. O script irá produzir visualizações dos clusters de personalidade obtidos dos algoritmos KMeans e Spectral Biclustering.
 
